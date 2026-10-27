@@ -1,0 +1,23 @@
+<input type="text" id = "apellidos" name = "apellidos">
+
+<textarea name = "_____" rows = "____" rols = "__">
+    Valor por defecto del texto
+</textarea>
+
+Grupos de campos:
+Etiqueta raiz <fieldset>
+Etiqueta informativa <legend>
+<fieldset>
+    <legend>texto</legend>
+    <label for "---"></label>
+    <input type="---".../>
+    _____
+</fieldset>
+
+
+radio:
+<label>Seleccioan tu plan
+    <input type="radio" name="plan" value="barato"/>
+    <input type="radio" name="plan" value="normal"/>
+    <input type="radio" name="plan" value="premium"/>
+</label>
