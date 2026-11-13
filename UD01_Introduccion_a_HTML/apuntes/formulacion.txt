@@ -21,3 +21,34 @@ radio:
     <input type="radio" name="plan" value="normal"/>
     <input type="radio" name="plan" value="premium"/>
 </label>
+
+_______________________________
+Relleono o padding: Solo para separar el texto del borde de la caja.
+Margin: Solo para centrar cajas
+_______________________________
+Cajas en paralelo en la misma linea:
+        display:inline-block
+La caja no crece cuando le doy length o width o padding
+        display: inline-block 
+
+___________________________________________
+Fonods en CSS
+
+    fondo de color
+        background.color: #HexHexHex
+                          #HexHexHex
+
+    hsl(h,s,l)
+        hue:Tono 0,259
+        saturation:Saturación 0,100
+        Lightness:Brillo 0,100
+    
+Fondos con imágenes
+    La propiedad background-image permite emplear una imagen como fondo de un contenedor.
+    La usamos para incorporar imagenes que forman parte del diseño de la página
+    (No son contenido). El comportamiento por defecto toma la imagen en dos dimensiones
+    originales e intenta cubrir el fondo del contenedor con esta. Si sobra imagen no se ve.
+
+    Formato de la Etiqueta:
+
+    background-image: url("_____");

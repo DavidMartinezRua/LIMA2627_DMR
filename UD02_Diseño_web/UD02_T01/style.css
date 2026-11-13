@@ -1,0 +1,49 @@
+:root {
+    --verde-claro: rgb(146, 239, 208);
+    --verde: rgb(79, 231, 160);
+    --verde-oscuro: rgb(22, 58, 46);
+    --amarillo-claro: khaki;
+    --oro: rgb(205, 174, 0);
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+article {
+
+}
+
+img {
+
+}
+
+.imagen {
+
+}
+
+.descripcion h1 {
+
+}
+
+.descripcion a {
+
+    cursor: pointer;
+}
+
+.precio {
+
+}
+
+.comprar{
+
+}
+
+.valoracion{
+
+}
+
+.descripcion p{
+
+}
